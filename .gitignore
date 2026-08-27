@@ -1,3 +1,5 @@
 .venv/
 downloaded_files/
 out/
+cache/
+__pycache__/

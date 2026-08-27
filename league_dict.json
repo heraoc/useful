@@ -1,0 +1,53 @@
+{
+  "INT-Champions League": {
+    "FBref": "Champions League",
+    "season_start": "Sep",
+    "season_end": "Jun"
+  },
+  "POR-Primeira Liga": {
+    "FBref": "Primeira Liga",
+    "season_start": "Aug",
+    "season_end": "May"
+  },
+  "NED-Eredivisie": {
+    "FBref": "Eredivisie",
+    "season_start": "Aug",
+    "season_end": "May"
+  },
+  "BEL-Pro League": {
+    "FBref": "Belgian Pro League",
+    "season_start": "Jul",
+    "season_end": "May"
+  },
+  "TUR-Super Lig": {
+    "FBref": "Süper Lig",
+    "season_start": "Aug",
+    "season_end": "May"
+  },
+  "UKR-Premier League": {
+    "FBref": "Ukrainian Premier League",
+    "season_start": "Aug",
+    "season_end": "May"
+  },
+  "CZE-First League": {
+    "FBref": "Czech First League",
+    "season_start": "Jul",
+    "season_end": "May"
+  },
+  "GRE-Super League": {
+    "FBref": "Super League Greece",
+    "season_start": "Aug",
+    "season_end": "May"
+  },
+  "AUT-Bundesliga": {
+    "FBref": "Austrian Football Bundesliga",
+    "season_start": "Jul",
+    "season_end": "May"
+  },
+  "NOR-Eliteserien": {
+    "FBref": "Eliteserien",
+    "season_start": "Mar",
+    "season_end": "Nov",
+    "season_code": "single-year"
+  }
+}
